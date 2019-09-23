@@ -1,7 +1,9 @@
 # solutions
+branch name <kudakwashe-mutaurwa>
+
 
 1. install xampp
-2. extract the folder to xampp
+2. download and extract the folder to xampp
 
 3.open browser and type url http://localhost/vhuka_task/vhuka_exercise.php
 
